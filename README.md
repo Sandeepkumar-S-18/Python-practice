@@ -1,2 +1,2 @@
 # Python-practice
-"My practice on Python and learning process have been uploaded to my repository."
+"I have uploaded my Python practice and learning process to my repository."
