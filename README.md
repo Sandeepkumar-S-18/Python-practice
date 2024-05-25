@@ -1,3 +1,6 @@
 # Python-practice
 "I have uploaded my Python practice and learning process to my repository."
-## frist section is all about Jupyter Notebook.
+# Practice-Notes-01
+## Frist section is all about Jupyter Notebook.
+## Second section on Variables and DataTypes.
+  In Python programming, variables serve as symbolic names for values stored in memory. Python is dynamically typed, meaning you don't need to explicitly declare variable types; instead, the type is inferred at runtime. Python supports a variety of data types including integers, floating-point numbers, strings, lists, tuples, dictionaries, and more. Each data type comes with its own set of operations and methods, allowing for flexible manipulation and representation of data. Understanding Python's dynamic typing and built-in data types is crucial for writing clean, concise, and efficient code. This repository aims to provide comprehensive resources, examples, and best practices for working with variables and data types in Python, catering to both beginners and experienced developers alike. Whether you're just starting your Python journey or seeking to deepen your understanding of its nuances, this resource is tailored to support your growth and proficiency in Python programming.
